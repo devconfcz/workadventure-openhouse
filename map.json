@@ -69,7 +69,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/openhouse.redhat.com\/cz\/info"
+                         "value":"https:\/\/openhouse.redhat.com\/cz\/info\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -87,7 +87,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/openhouse.redhat.com\/cz\/photos"
+                         "value":"https:\/\/openhouse.redhat.com\/cz\/photos\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
